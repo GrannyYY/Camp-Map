@@ -1,0 +1,370 @@
+[
+    {
+        "name": "河北省",
+        "value": 2
+    },
+    {
+        "name": "攀枝花市",
+        "value": 2
+    },
+    {
+        "name": "吕梁市",
+        "value": 2
+    },
+    {
+        "name": "承德市",
+        "value": 2
+    },
+    {
+        "name": "齐齐哈尔市",
+        "value": 2
+    },
+    {
+        "name": "白城市",
+        "value": 2
+    },
+    {
+        "name": "吉安市",
+        "value": 2
+    },
+    {
+        "name": "雅安市",
+        "value": 2
+    },
+    {
+        "name": "新余市",
+        "value": 2
+    },
+    {
+        "name": "黄石市",
+        "value": 2
+    },
+    {
+        "name": "滁州市",
+        "value": 2
+    },
+    {
+        "name": "抚顺市",
+        "value": 2
+    },
+    {
+        "name": "泸州市",
+        "value": 2
+    },
+    {
+        "name": "长治市",
+        "value": 2
+    },
+    {
+        "name": "阳泉市",
+        "value": 2
+    },
+    {
+        "name": "赤峰市",
+        "value": 2
+    },
+    {
+        "name": "安庆市",
+        "value": 2
+    },
+    {
+        "name": "宁德市",
+        "value": 2
+    },
+    {
+        "name": "吴忠市",
+        "value": 2
+    },
+    {
+        "name": "湖北省",
+        "value": 2
+    },
+    {
+        "name": "广安市",
+        "value": 2
+    },
+    {
+        "name": "崇左市",
+        "value": 2
+    },
+    {
+        "name": "韶关市",
+        "value": 2
+    },
+    {
+        "name": "三门峡市",
+        "value": 2
+    },
+    {
+        "name": "包头市",
+        "value": 2
+    },
+    {
+        "name": "通辽市",
+        "value": 2
+    },
+    {
+        "name": "景德镇市",
+        "value": 2
+    },
+    {
+        "name": "本溪市",
+        "value": 2
+    },
+    {
+        "name": "铜仁市",
+        "value": 2
+    },
+    {
+        "name": "自贡市",
+        "value": 2
+    },
+    {
+        "name": "漯河市",
+        "value": 2
+    },
+    {
+        "name": "池州市",
+        "value": 2
+    },
+    {
+        "name": "武威市",
+        "value": 2
+    },
+    {
+        "name": "襄阳市",
+        "value": 2
+    },
+    {
+        "name": "三亚市",
+        "value": 2
+    },
+    {
+        "name": "汕尾市",
+        "value": 2
+    },
+    {
+        "name": "宿州市",
+        "value": 2
+    },
+    {
+        "name": "岳阳市",
+        "value": 2
+    },
+    {
+        "name": "萍乡市",
+        "value": 1
+    },
+    {
+        "name": "毕节市",
+        "value": 1
+    },
+    {
+        "name": "文山壮族苗族自治州",
+        "value": 1
+    },
+    {
+        "name": "荆门市",
+        "value": 1
+    },
+    {
+        "name": "六安市",
+        "value": 1
+    },
+    {
+        "name": "黄山市",
+        "value": 1
+    },
+    {
+        "name": "常德市",
+        "value": 1
+    },
+    {
+        "name": "丽水市",
+        "value": 1
+    },
+    {
+        "name": "朝阳市",
+        "value": 1
+    },
+    {
+        "name": "辽源市",
+        "value": 1
+    },
+    {
+        "name": "咸宁市",
+        "value": 1
+    },
+    {
+        "name": "临汾市",
+        "value": 1
+    },
+    {
+        "name": "延边朝鲜族自治州",
+        "value": 1
+    },
+    {
+        "name": "杨浦区",
+        "value": 1
+    },
+    {
+        "name": "巴彦淖尔市",
+        "value": 1
+    },
+    {
+        "name": "红河哈尼族彝族自治州",
+        "value": 1
+    },
+    {
+        "name": "铜陵市",
+        "value": 1
+    },
+    {
+        "name": "阳江市",
+        "value": 1
+    },
+    {
+        "name": "德州市",
+        "value": 1
+    },
+    {
+        "name": "黔西南布依族苗族自治州",
+        "value": 1
+    },
+    {
+        "name": "新北市",
+        "value": 1
+    },
+    {
+        "name": "南平市",
+        "value": 1
+    },
+    {
+        "name": "资阳市",
+        "value": 1
+    },
+    {
+        "name": "遂宁市",
+        "value": 1
+    },
+    {
+        "name": "日照市",
+        "value": 1
+    },
+    {
+        "name": "白银市",
+        "value": 1
+    },
+    {
+        "name": "梧州市",
+        "value": 1
+    },
+    {
+        "name": "辽阳市",
+        "value": 1
+    },
+    {
+        "name": "宿迁市",
+        "value": 1
+    },
+    {
+        "name": "伊春市",
+        "value": 1
+    },
+    {
+        "name": "张家界市",
+        "value": 1
+    },
+    {
+        "name": "西双版纳傣族自治州",
+        "value": 1
+    },
+    {
+        "name": "锡林郭勒盟",
+        "value": 1
+    },
+    {
+        "name": "海南省",
+        "value": 1
+    },
+    {
+        "name": "朔州市",
+        "value": 1
+    },
+    {
+        "name": "天水市",
+        "value": 1
+    },
+    {
+        "name": "平凉市",
+        "value": 1
+    },
+    {
+        "name": "清远市",
+        "value": 1
+    },
+    {
+        "name": "四平市",
+        "value": 1
+    },
+    {
+        "name": "盐城市",
+        "value": 1
+    },
+    {
+        "name": "营口市",
+        "value": 1
+    },
+    {
+        "name": "金昌市",
+        "value": 1
+    },
+    {
+        "name": "菏泽市",
+        "value": 1
+    },
+    {
+        "name": "铁岭市",
+        "value": 1
+    },
+    {
+        "name": "大理白族自治州",
+        "value": 1
+    },
+    {
+        "name": "怀化市",
+        "value": 1
+    },
+    {
+        "name": "晋城市",
+        "value": 1
+    },
+    {
+        "name": "内江市",
+        "value": 1
+    },
+    {
+        "name": "娄底市",
+        "value": 1
+    },
+    {
+        "name": "鹰潭市",
+        "value": 1
+    },
+    {
+        "name": "昭通市",
+        "value": 1
+    },
+    {
+        "name": "通化市",
+        "value": 1
+    },
+    {
+        "name": "楚雄彝族自治州",
+        "value": 1
+    },
+    {
+        "name": "郴州市",
+        "value": 1
+    }
+]

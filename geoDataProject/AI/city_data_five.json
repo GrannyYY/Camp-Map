@@ -1,0 +1,234 @@
+[
+    {
+        "name": "无锡市",
+        "value": 28
+    },
+    {
+        "name": "苏州市",
+        "value": 27
+    },
+    {
+        "name": "郑州市",
+        "value": 27
+    },
+    {
+        "name": "哈尔滨市",
+        "value": 27
+    },
+    {
+        "name": "长春市",
+        "value": 22
+    },
+    {
+        "name": "大连市",
+        "value": 18
+    },
+    {
+        "name": "珠海市",
+        "value": 18
+    },
+    {
+        "name": "海口市",
+        "value": 18
+    },
+    {
+        "name": "福州市",
+        "value": 17
+    },
+    {
+        "name": "桂林市",
+        "value": 15
+    },
+    {
+        "name": "太原市",
+        "value": 14
+    },
+    {
+        "name": "新疆",
+        "value": 14
+    },
+    {
+        "name": "厦门市",
+        "value": 14
+    },
+    {
+        "name": "香港",
+        "value": 11
+    },
+    {
+        "name": "南充市",
+        "value": 11
+    },
+    {
+        "name": "东莞市",
+        "value": 11
+    },
+    {
+        "name": "西宁市",
+        "value": 11
+    },
+    {
+        "name": "烟台市",
+        "value": 10
+    },
+    {
+        "name": "石家庄市",
+        "value": 10
+    },
+    {
+        "name": "兰州市",
+        "value": 10
+    },
+    {
+        "name": "威海市",
+        "value": 10
+    },
+    {
+        "name": "呼和浩特市",
+        "value": 10
+    },
+    {
+        "name": "廊坊市",
+        "value": 9
+    },
+    {
+        "name": "抚州市",
+        "value": 9
+    },
+    {
+        "name": "南宁市",
+        "value": 9
+    },
+    {
+        "name": "保定市",
+        "value": 8
+    },
+    {
+        "name": "宁波市",
+        "value": 8
+    },
+    {
+        "name": "运城市",
+        "value": 8
+    },
+    {
+        "name": "昆明市",
+        "value": 8
+    },
+    {
+        "name": "晋中市",
+        "value": 8
+    },
+    {
+        "name": "扬州市",
+        "value": 7
+    },
+    {
+        "name": "南通市",
+        "value": 7
+    },
+    {
+        "name": "拉萨市",
+        "value": 6
+    },
+    {
+        "name": "新乡市",
+        "value": 6
+    },
+    {
+        "name": "泉州市",
+        "value": 5
+    },
+    {
+        "name": "邯郸市",
+        "value": 5
+    },
+    {
+        "name": "泰安市",
+        "value": 5
+    },
+    {
+        "name": "赣州市",
+        "value": 5
+    },
+    {
+        "name": "开封市",
+        "value": 5
+    },
+    {
+        "name": "宜昌市",
+        "value": 5
+    },
+    {
+        "name": "湘潭市",
+        "value": 5
+    },
+    {
+        "name": "焦作市",
+        "value": 5
+    },
+    {
+        "name": "衡阳市",
+        "value": 4
+    },
+    {
+        "name": "佛山市",
+        "value": 4
+    },
+    {
+        "name": "台州市",
+        "value": 4
+    },
+    {
+        "name": "嘉兴市",
+        "value": 4
+    },
+    {
+        "name": "潍坊市",
+        "value": 4
+    },
+    {
+        "name": "许昌市",
+        "value": 3
+    },
+    {
+        "name": "惠州市",
+        "value": 3
+    },
+    {
+        "name": "益阳市",
+        "value": 3
+    },
+    {
+        "name": "莆田市",
+        "value": 3
+    },
+    {
+        "name": "淮北市",
+        "value": 3
+    },
+    {
+        "name": "阜阳市",
+        "value": 3
+    },
+    {
+        "name": "澳门半岛",
+        "value": 3
+    },
+    {
+        "name": "连云港市",
+        "value": 3
+    },
+    {
+        "name": "大同市",
+        "value": 3
+    },
+    {
+        "name": "绵阳市",
+        "value": 3
+    },
+    {
+        "name": "石嘴山市",
+        "value": 3
+    }
+]
