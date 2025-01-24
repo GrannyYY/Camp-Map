@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # 读取Excel文件
-df = pd.read_excel('_Rust Beginners Learning Camp (Data Structures and Algorithms)-报名表.xlsx')
+df = pd.read_excel('data.xlsx')
 
 
 # 分割地址列，提取省和市

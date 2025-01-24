@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # 读取Excel文件
-df = pd.read_excel('训练营平台用户表-14800人.xlsx')
+df = pd.read_excel('data.xlsx')
 
 # 分割地址列，提取省和市
 df[['省份', '城市']] = df['城市'].str.split('/', expand=True)

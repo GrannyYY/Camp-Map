@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # 读取Excel文件
-df = pd.read_excel('2024 冬季大模型与人工智能系统训练营-报名表-3208人.xlsx')
+df = pd.read_excel('data.xlsx')
 
 
 # 分割地址列，提取省和市
