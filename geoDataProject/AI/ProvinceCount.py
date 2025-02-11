@@ -4,8 +4,8 @@ import pandas as pd
 import json
 # 转为json
 
-# 读取Excel文件
-df = pd.read_excel('2024 冬季大模型与人工智能系统训练营-报名表-3208人.xlsx')
+# 读取Excel文件 （替换成excel文件名）
+df = pd.read_excel('AI报名表.xlsx')
 
 # 分割地址列，提取省和市
 df[['省份', '城市']] = df['城市'].str.split('/', expand=True)
